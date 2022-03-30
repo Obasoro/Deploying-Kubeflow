@@ -46,6 +46,58 @@ Since you are in your local machine, having connected through SSH, run this comm
 
 `$ ./kf-install`
 
+# Another Option
+
+# Used `minikf` to deploy and launch kubeflow
+
+1. Go to the Marketplace and search for minikf.
+
+2. Enable and deploy. It would take few minute to iniatialize. Keep the user name and password for the kubeflow. SSH into the minikf and type `minikf` to initialize kubeflow
+
+<img width="812" alt="ssh" src="https://user-images.githubusercontent.com/29310552/160821399-7e7e04aa-2a36-4e13-bac7-4c852a870be7.PNG">
+
+
+<img width="952" alt="Capture" src="https://user-images.githubusercontent.com/29310552/160817691-d9b15803-4a05-4d00-b8be-915f8a2460b1.PNG">
+
+<img width="947" alt="Capture2" src="https://user-images.githubusercontent.com/29310552/160818702-089103a8-3fd7-4187-b29a-2620ceef8dca.PNG">
+
+3. Click Notebook to initilaize ther server
+
+<img width="763" alt="Capture3" src="https://user-images.githubusercontent.com/29310552/160820962-4ab2df3b-cf48-4b5e-b1af-d9a41f384ddb.PNG">
+
+4. click connect and the server would be up and running
+
+5. Click terminal and `git clone https://github.com/manceps/manceps-canonical.git`
+
+6. Open the "KF_Fashion_MNIST.ipynb" file
+
+<img width="719" alt="file" src="https://user-images.githubusercontent.com/29310552/160822360-0e297357-706d-4878-ae12-58a56f3c006e.PNG">
+
+# The MNIST notebook cells.
+
+1.<img width="738" alt="note1" src="https://user-images.githubusercontent.com/29310552/160823325-193c8f6f-cbb1-402e-8dca-8c99cc61e9d1.PNG">
+
+<img width="723" alt="note2" src="https://user-images.githubusercontent.com/29310552/160823519-fe628b83-00f4-4893-8922-2acd29f32944.PNG">
+
+Data exploration been carried out
+
+<img width="749" alt="note3" src="https://user-images.githubusercontent.com/29310552/160823889-8ee0354b-5b6f-402c-9138-fb8bfed7ba06.PNG">
+
+Image preprocessing 
+
+<img width="726" alt="note4" src="https://user-images.githubusercontent.com/29310552/160824150-0a2fe32a-1d3f-4edd-b560-1c8b338186d7.PNG">
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

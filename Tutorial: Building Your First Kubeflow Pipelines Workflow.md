@@ -87,6 +87,16 @@ Image preprocessing
 
 <img width="726" alt="note4" src="https://user-images.githubusercontent.com/29310552/160824150-0a2fe32a-1d3f-4edd-b560-1c8b338186d7.PNG">
 
+Deploy KFT using the code
+
+<img width="637" alt="deploy kft" src="https://user-images.githubusercontent.com/29310552/160831336-63c06382-c50f-4f6b-b0a2-aa5480ef4198.PNG">
+
+build kubeflow pipeline
+
+<img width="717" alt="client" src="https://user-images.githubusercontent.com/29310552/160831713-97a0022e-09e4-4b2b-a357-44e1ee827e53.PNG">
+
+
+
 
 
 

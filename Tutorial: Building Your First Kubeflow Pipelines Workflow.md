@@ -95,6 +95,11 @@ build kubeflow pipeline
 
 <img width="717" alt="client" src="https://user-images.githubusercontent.com/29310552/160831713-97a0022e-09e4-4b2b-a357-44e1ee827e53.PNG">
 
+# Build Pipeline
+
+<img width="245" alt="training" src="https://user-images.githubusercontent.com/29310552/160949749-8fa0cb02-9eee-4f84-afa3-1b3cbdce77f4.PNG">
+
+
 
 
 
